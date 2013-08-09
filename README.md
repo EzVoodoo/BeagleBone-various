@@ -10,6 +10,5 @@ Enjoy!
 * PND_linksprite_LCD_and_buttons_BeagleBone.js --> Use LCD and buttons for '16 X 2 LCD Keypad Shield for Arduino'
 
 ### Ruby
-Coming soon
-
+* PND_Ruby_BeagleBoneBlack_with_OLED_128x64.rb --> Use BeagleBone Black with OLED 128x64 screen (SPI protocol)
 
